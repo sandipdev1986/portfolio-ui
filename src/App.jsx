@@ -1,13 +1,21 @@
+import React from "react";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css'
 import Home from './components/Home'
-
+import Career from "./components/Career";
 
 function App() {
 
-  return (
-    <>
-    <Home />
-    </>
+  return (   
+      <BrowserRouter>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/career" element={<Career />} />
+            </Routes>
+
+
+
+        </BrowserRouter>
   )
 }
 
