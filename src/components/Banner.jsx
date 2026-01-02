@@ -19,7 +19,7 @@ const Banner = () => {
                     <TypeAnimation
                             sequence={[
                                 // Same substring at the start will only be typed out once, initially
-                                '12+ years building scalable front-end apps',
+                                '13+ years building scalable front-end apps',
                                 1000, // wait 1s before replacing "Mice" with "Hamsters"
                                 'Expert in Angular, React, TypeScript, JavaScript, HTML, CSS',
                                 1000,
