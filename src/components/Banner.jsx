@@ -11,7 +11,7 @@ const Banner = () => {
             <div className="mx-auto max-w-5xl content-center" style={{height: '100vh'}}>
             <div className="sm:mb-5 sm:flex sm:justify-center text-center mb-5">
                 <div className="relative rounded-full px-3 py-1 text-sm/6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20">
-                Front-End Developer with 12+ years of experience
+                Front-End Developer with 13+ years of experience
                 </div>
             </div>
             <div className="text-center">
@@ -48,7 +48,7 @@ const Banner = () => {
                             style={{display: 'inline-block' }}
                             repeat={Infinity}
                         /> </h1>
-                <p className="mt-5 text-lg text-pretty text-gray-400 xs:text-xl/3">My Name is Sandip Chakraborty. I am a Front-End Developer with 12+ years of experience building scalable, responsive applications using <strong>React, Next.js, Angular, JavaScript, TypeScript, Node.js, HTML, CSS, Tailwind CSS</strong>. Skilled at clean code, reusable components, REST APIs, and UI/UX improvements.</p>
+                <p className="mt-5 text-lg text-pretty text-gray-400 xs:text-xl/3">My Name is Sandip Chakraborty. I am a Front-End Developer with 13+ years of experience building scalable, responsive applications using <strong>React, Next.js, Angular, JavaScript, TypeScript, Node.js, HTML, CSS, Tailwind CSS</strong>. Skilled at clean code, reusable components, REST APIs, and UI/UX improvements.</p>
                 <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a href={cv} target='_blank'  className="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">My Resume</a>               
 
